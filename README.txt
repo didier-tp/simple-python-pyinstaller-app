@@ -1,0 +1,1 @@
+https://github.com/didier-mycontrib/msa-vagrant/with-wsl2/install-docker.sh
